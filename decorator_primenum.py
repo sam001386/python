@@ -1,3 +1,5 @@
+##Reference: https://www.youtube.com/results?search_query=%E8%A3%85%E9%A5%B0%E5%99%A8+python
+
 import time
 import functools
 
